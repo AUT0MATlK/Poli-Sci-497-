@@ -1,0 +1,21 @@
+
+What research question do you want to answer?
+
+What are modern opinions of hard drug decriminalization?
+
+What are two possible answers?
+
+It's either going to be there is positive opinions. 
+Or there are negative opinions of hard drug decriminilization
+
+What are the documents of text data you will analyze?
+
+I would analyze social media posts, trending hashtags or modern academia opinions and analyze the documents for positive opinions. 
+
+
+Give two examples of documents in the corpus that you expect will be high in similarity to each other? Two examples that are *low* in similarity?
+
+
+I think academia documents will both be rather positive and view decriminalization in a good way. While social media documents will differ quite a bit due to the wide range of opinions and backgrounds. 
+
+
